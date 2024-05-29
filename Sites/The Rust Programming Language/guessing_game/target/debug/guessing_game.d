@@ -1,0 +1,1 @@
+/Users/mk/Studies/learn.rust/Sites/The\ Rust\ Programming\ Language/guessing_game/target/debug/guessing_game: /Users/mk/Studies/learn.rust/Sites/The\ Rust\ Programming\ Language/guessing_game/src/main.rs
