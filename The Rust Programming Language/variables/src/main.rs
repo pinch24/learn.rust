@@ -11,8 +11,25 @@ fn main() {
     }
 
     println!("The value of x is: {x}");
+    println!("--------------------------------");
 
     let spaces = "    ";
     let spaces = spaces.len();
     println!("spaces: {spaces}");
+    println!("--------------------------------");
+
+    let guess: u32 = "42".parse().expect("Not a number!");
+    println!("--------------------------------");
+
+    let bNumber = 0b1111_0000;
+    println!("b Number: {bNumber}");
+
+    let bChar = b'A';
+    println!("b Char: {bChar}");
+    println!("--------------------------------");
+
+    let x = 2.0;
+    let y: f32 = 3.0;
+    println!("{x}, {y}");
+    println!("--------------------------------");
 }
